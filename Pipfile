@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+python-dotenv = "*"
+discord = "*"
+pylint = "*"
+requests = "*"
+colorama = "*"
+emoji = "*"
+newsapi-python = "*"
+lxml = "*"
+
+[requires]
+python_version = "3.8"
